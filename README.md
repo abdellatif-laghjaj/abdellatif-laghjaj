@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdelatif Laghjaj
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java, c#, python, web development, c/c++...
-- I'm working hard to become a software engineer
+- 💛 I'm working hard to become a software engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Facebook -> https://www.facebook.com/abdelatif.laghjaj
 

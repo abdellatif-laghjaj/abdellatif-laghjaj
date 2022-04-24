@@ -1,5 +1,8 @@
-#Hi 👋 My name is Abdellatif Laghjaj
-student at computer sience.
+Hi 👋 My name is Abdellatif Laghjaj
+===================================
+
+student at computer sience
+--------------------------
 I've been learning to code for about 3 years, I started with c programming language I learned the basics, and then ni start learning about data structure in c++, then java, and then web
 * 🌍  I'm based in Morroco
 * ✉️  You can contact me at [abdelatiflaghjaj@gmail.com](mailto:abdelatiflaghjaj@gmail.com)

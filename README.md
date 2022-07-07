@@ -1,56 +1,134 @@
-Hi 👋 My name is Abdellatif Laghjaj
-===================================
+<h1 align="center">Hi 👋, I'm Abdellatif Laghjaj</h1>
+<h3 align="center">A passionate full-stack developer from Morocco</h3>
 
-student at computer sience
---------------------------
-I've been learning to code for about 3 years, I started with c programming language I learned the basics, and then ni start learning about data structure in c++, then java, and then web
-* 🌍  I'm based in Morroco
-* ✉️  You can contact me at [abdelatiflaghjaj@gmail.com](mailto:abdelatiflaghjaj@gmail.com)
-* 🧠  I'm currently learning Flutter
-* 🤝  I'm open to collaborating on managment systems
-* ⚡  the best error message is the one that never shows up
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=0e75b6&style=flat"
+        alt="abdellatif-laghjaj" /> </p>
 
-<a href="https://www.github.com/abdellatif-laghjaj" target="_blank" rel="noreferrer">
-<imgsrc="https://img.shields.io/github/followers/abdellatif-laghjaj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=abdellatif-laghjaj" alt="abdellatif-laghjaj" /></a>
+</p>
 
-### Skills <br>
+<p align="left"> <a href="https://twitter.com/alaghjaj" target="blank"><img
+            src="https://img.shields.io/twitter/follow/alaghjaj?logo=twitter&style=for-the-badge" alt="alaghjaj" /></a>
+</p>
 
+- 🔭 I’m currently working on **shop app with flutter**
+
+- 🌱 I’m currently learning **flutter, React Js and laravel**
+
+- 👯 I’m looking to collaborate on **a project :0**
+
+- 🤝 I’m looking for help with **anything!**
+
+- 👨‍💻 All of my projects are available at [http://abdellatif-laghjaj.ml/](http://abdellatif-laghjaj.ml/)
+
+- 💬 Ask me about **php, javascript and java**
+
+- 📫 How to reach me **abdelatiflaghjaj@gmail.com**
+
+- 📄 Know about my experiences [working on it :)](working on it :))
+
+- ⚡ Fun fact **yeah I'm short :0**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>&nbsp;
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>&nbsp;
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>&nbsp;
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>&nbsp;
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+    <a href="https://codepen.io/https://codepen.io/abdellatif-laghjaj" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+            alt="https://codepen.io/abdellatif-laghjaj" height="30" width="40" /></a>
+    <a href="https://dev.to/https://dev.to/abdelatif_laghjaj" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+            alt="https://dev.to/abdelatif_laghjaj" height="30" width="40" /></a>
+    <a href="https://twitter.com/alaghjaj" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="alaghjaj" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdellatif-laghjaj/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://www.linkedin.com/in/abdellatif-laghjaj/" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15170378/abdelatif-laghjaj"
+        target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="https://stackoverflow.com/users/15170378/abdelatif-laghjaj" height="30" width="40" /></a>
+    <a href="https://fb.com/https://www.facebook.com/abdelatif.laghjaj" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="https://www.facebook.com/abdelatif.laghjaj" height="30" width="40" /></a>
+    <a href="https://instagram.com/https://www.instagram.com/abdelatif_laghjaj/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="https://www.instagram.com/abdelatif_laghjaj/" height="30" width="40" /></a>
 </p>
 
-### Socials <br>
-<p align="left"> <a href="https://www.github.com/abdellatif-laghjaj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>&nbsp;
-  <a href="http://www.instagram.com/abdelatif_laghjaj/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://www.stackoverflow.com/users/15170378/abdelatif-laghjaj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/abdellatif-laghjaj/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+            alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
+        rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+            alt="c" width="40" height="40" /> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a> <a
+        href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+            alt="csharp" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" /> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a
+        href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
+        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
+            width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" /> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
 </p>
 
-### Badges <br>
+<h3 align="left">Support:</h3>
+<p>
+    <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/abdelatif"> <img align="left"
+            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
+            alt="https://www.buymeacoffee.com/abdelatif" /></a>
+    <a
+        href="https://ko-fi.com/https://ko-fi.com/abdellatiflaghjaj"> <img align="left"
+            src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210"
+            alt="https://ko-fi.com/abdellatiflaghjaj" /></a></p><br><br><br>
 
-<b>My GitHub Stats</b>
+<p align="center">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellatif-laghjaj&show_icons=true&locale=en&layout=compact"
+        alt="abdellatif-laghjaj" />
+</p>
 
-<a href="http://www.github.com/abdellatif-laghjaj"><img src="https://github-readme-stats.vercel.app/api?username=abdellatif-laghjaj&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abdellatif-laghjaj's GitHub stats" /></a>
+<p align="center">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=abdellatif-laghjaj&show_icons=true&locale=en"
+        alt="abdellatif-laghjaj" />
+</p>
 
-<a href="http://www.github.com/abdellatif-laghjaj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdellatif-laghjaj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/abdellatif-laghjaj"><img src="https://activity-graph.herokuapp.com/graph?username=abdellatif-laghjaj&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/abdellatif-laghjaj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-laghjaj&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me <br>
-<a href="https://www.buymeacoffee.com/abdelatif" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"></a>
+<p align="center">
+    <img align="center" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=abdellatif-laghjaj&"
+        alt="abdellatif-laghjaj" />
+</p>

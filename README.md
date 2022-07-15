@@ -132,3 +132,9 @@
         src="https://github-readme-streak-stats.herokuapp.com/?user=abdellatif-laghjaj&"
         alt="abdellatif-laghjaj" />
 </p>
+
+## &#x1f4c9; CodersRank Stats
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=abdellatif-laghjaj&skills=Apex,C,C++,CSS,HTML,JSON,Java,JavaScript,Less,MATLAB,Makefile,PHP,Python,SCSS,Shell&show-other-skills=true"
+/>

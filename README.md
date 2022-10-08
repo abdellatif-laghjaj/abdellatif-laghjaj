@@ -9,8 +9,6 @@
             src="https://github-profile-trophy.vercel.app/?username=abdellatif-laghjaj" alt="abdellatif-laghjaj" /></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/alaghjaj" target="blank"><img
-            src="https://img.shields.io/twitter/follow/alaghjaj?logo=twitter&style=for-the-badge" alt="alaghjaj" /></a>
 </p>
 
 - 🔭 I’m currently working on **shop app with flutter**

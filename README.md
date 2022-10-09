@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **anything!**
 
-- 👨‍💻 All of my projects are available at [http://abdellatif-laghjaj.ml/](http://abdellatif-laghjaj.ml/)
+- 👨‍💻 All of my projects are available at [https://www.abdellatif-laghjaj.com/](https://www.abdellatif-laghjaj.com/)
 
 - 💬 Ask me about **php, javascript and java**
 
@@ -105,9 +105,6 @@
 
 <h3 align="left">Support:</h3>
 <p>
-    <a href="https://www.buymeacoffee.com/abdelatif"> <img align="left"
-            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="https://www.buymeacoffee.com/abdelatif" /></a>
     <a
         href="https://ko-fi.com/abdellatiflaghjaj"> <img align="left"
             src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210"

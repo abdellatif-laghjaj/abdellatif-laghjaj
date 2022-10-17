@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **anything!**
 
-- 👨‍💻 All of my projects are available at [https://www.abdellatif-laghjaj.com/](https://www.abdellatif-laghjaj.com/)
+- 👨‍💻 All of my projects are available at [https://www.abdellatif-laghjaj.ml/](https://www.abdellatif-laghjaj.ml/)
 
 - 💬 Ask me about **php, javascript and java**
 

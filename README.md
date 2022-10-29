@@ -4,8 +4,13 @@
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=0e75b6&style=flat"
         alt="abdellatif-laghjaj" /> </p>
-- ⚡ Fun fact **yeah I'm short :0** <br><br>
-## 🌐 Socials:
+- ⚡ Fun fact <b>yeah I'm short :0</b>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=abdellatif-laghjaj&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+# 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdelatif.laghjaj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdellatif_laghjaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdellatif-laghjaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15170378/abdelatif-laghjaj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Alaghjaj)
 
@@ -18,10 +23,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=abdellatif-laghjaj&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdellatif-laghjaj&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-laghjaj&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=abdellatif-laghjaj&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 

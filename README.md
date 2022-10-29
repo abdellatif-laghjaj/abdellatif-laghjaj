@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
 
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=red&style=for-the-badge"
         alt="abdellatif-laghjaj" /> </p>
 - ⚡ Fun fact <b>yeah I'm short :0</b>
 

@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdellatif Laghjaj</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
 
+![snake gif](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)
+  
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=red&style=for-the-badge"
         alt="abdellatif-laghjaj" /> </p>

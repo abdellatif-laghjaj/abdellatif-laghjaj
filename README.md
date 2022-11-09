@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdellatif Laghjaj</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
+<img src="https://user-images.githubusercontent.com/79521157/200921732-1d91c4c8-2c13-4833-9739-4048f3d31581.gif" width="100%" height="200px"/>
 
 ![snake gif](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)
   

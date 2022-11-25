@@ -24,7 +24,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=abdellatif-laghjaj&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=abdellatif-laghjaj&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdellatif-laghjaj&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-laghjaj&theme=dark&hide_border=true&langs_count=8&include_all_commits=false&count_private=true&layout=compact)
 

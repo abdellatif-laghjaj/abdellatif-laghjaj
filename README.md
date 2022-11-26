@@ -1,6 +1,8 @@
 <h1 align="left">Hello world 👋, I'm Abdellatif Laghjaj</h1>
-<hp align="left">⚡A passionate full-stack developer from Morocco</h4>
-<h4 align="left">⚡Classified as 4th developer in Morrocco according to codersrank</h4>
+
+- ⚡ A passionate full-stack developer from Morocco </b>
+- ⚡ Classified as 4th developer in Morrocco according to codersrank </b>
+- ⚡ Fun fact <b>yeah I'm short :0 </b>
 <img src="https://user-images.githubusercontent.com/79521157/200921732-1d91c4c8-2c13-4833-9739-4048f3d31581.gif" width="100%" height="200px"/>
 
 ![snake gif](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)
@@ -8,7 +10,6 @@
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=red&style=for-the-badge"
         alt="abdellatif-laghjaj" /> </p>
-- ⚡ Fun fact <b>yeah I'm short :0</b>
 
 ## 🏆 GitHub Trophies
 

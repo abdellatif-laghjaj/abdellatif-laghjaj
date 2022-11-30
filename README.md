@@ -1,10 +1,10 @@
 <h1 align="left">Hello world 👋, I'm Abdellatif Laghjaj</h1>
 
-- ⚡ A passionate full-stack developer from Morocco </b>
-- ⚡ Classified as 4th developer in Morrocco according to codersrank </b>
-- ⚡ Fun fact <b>yeah I'm short :0 </b>
-<img src="https://user-images.githubusercontent.com/79521157/200921732-1d91c4c8-2c13-4833-9739-4048f3d31581.gif" width="100%" height="200px"/>
+- ⚡ A passionate full-stack developer from Morocco 💗</b>
+- ⚡ Classified as the 4th developer in Morrocco according to codersrank.io 🙂</b>
+- ⚡ Fun fact <b>yeah I'm short :0 🙄</b>
 
+## 🐍 Watch the snack eat my contributions
 ![snake gif](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left"> <img

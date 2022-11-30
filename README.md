@@ -4,12 +4,12 @@
 - ⚡ Classified as the 4th developer in Morrocco according to codersrank.io 🙂</b>
 - ⚡ Fun fact <b>yeah I'm short :0 🙄</b>
 
-## 🐍 Watch the snack eat my contributions
-![snake gif](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)
-  
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=red&style=for-the-badge"
         alt="abdellatif-laghjaj" /> </p>
+        
+## 🐍 Watch the snack eat my contributions
+![snake gif](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 

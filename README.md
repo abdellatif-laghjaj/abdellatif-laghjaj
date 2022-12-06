@@ -1,7 +1,7 @@
 <h1 align="left">Hello world 👋, I'm Abdellatif Laghjaj</h1>
 
 - ⚡ A passionate full-stack developer from Morocco 💗</b>
-- ⚡ Classified as the 4th developer in Morrocco according to codersrank.io 🙂</b>
+- ⚡ Classified as the 3rd developer in Morrocco according to codersrank.io 🙂</b>
 - ⚡ Fun fact <b>yeah I'm short :0 🙄</b>
 
 <p align="left"> <img

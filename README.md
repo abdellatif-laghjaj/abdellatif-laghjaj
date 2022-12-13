@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=300&section=header&text=ABDELLATIF&fontAlignY=40&fontSize=60&fontColor=d3d3d3&animation=fadeIn&desc=LAGHJAJ&descSize=44&descAlignY=60)
 ```
-- ⚡ A passionate full-stack developer from Morocco 💗</b>
-- ⚡ Classified as the 3rd developer in Morrocco according to codersrank.io 🙂</b>
-- ⚡ Fun fact <b>yeah I'm short :0 🙄</b>
+- ⚡ A passionate full-stack developer from Morocco 💗
+- ⚡ Classified as the 3rd developer in Morrocco according to codersrank.io 🙂
+- ⚡ Fun fact yeah I'm short :0 🙄
 ```
 
 <p align="left"> <img

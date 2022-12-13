@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=300&section=header&text=Abdellatif&fontAlignY=40&fontSize=60&fontColor=d3d3d3&animation=fadeIn&desc=Laghjaj&descSize=40&descAlignY=60)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=300&section=header&text=ABDELLATIF&fontAlignY=40&fontSize=60&fontColor=d3d3d3&animation=fadeIn&desc=LAGHJAJ&descSize=44&descAlignY=60)
+```
 - ⚡ A passionate full-stack developer from Morocco 💗</b>
 - ⚡ Classified as the 3rd developer in Morrocco according to codersrank.io 🙂</b>
 - ⚡ Fun fact <b>yeah I'm short :0 🙄</b>
+```
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=red&style=for-the-badge"

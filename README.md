@@ -1,4 +1,4 @@
-<h1 align="left">Hello world 👋, I'm Abdellatif Laghjaj</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=300&section=header&text=Abdellatif&fontAlignY=40&fontSize=60&fontColor=d3d3d3&animation=fadeIn&desc=Laghjaj&descSize=40&descAlignY=60)
 
 - ⚡ A passionate full-stack developer from Morocco 💗</b>
 - ⚡ Classified as the 3rd developer in Morrocco according to codersrank.io 🙂</b>

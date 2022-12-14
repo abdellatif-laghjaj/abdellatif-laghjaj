@@ -12,10 +12,6 @@
 ## 🐍 Watch the snack eat my contributions
 ![snake gif](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=abdellatif-laghjaj&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
 # 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdelatif.laghjaj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdellatif_laghjaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdellatif-laghjaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15170378/abdelatif-laghjaj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdellatif_kira)

@@ -9,7 +9,7 @@
         src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=red&style=for-the-badge"
         alt="abdellatif-laghjaj" /> </p>
         
-## 🐍 Watch the snack eat my contributions
+## 🐍 Watch the snake eat my contributions
 ![snake gif](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)
 
 # 🌐 Socials:

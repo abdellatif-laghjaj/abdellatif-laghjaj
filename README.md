@@ -7,7 +7,7 @@
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=red&style=for-the-badge"
-        alt="abdellatif-laghjaj" /> </p>
+        alt="abdellatif-laghjaj" width="200"/> </p>
         
 ## 🐍 Watch the snake eat my contributions
 ![snake gif](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)

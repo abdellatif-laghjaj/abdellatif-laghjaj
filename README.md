@@ -2,7 +2,7 @@
 ```
 - ⚡ A passionate full-stack developer from Morocco 💗
 - ⚡ Classified as the 3rd developer in Morrocco according to codersrank.io 😀
-- ⚡ Fun fact yeah I'm short :) 🙂
+- ⚡ Fun fact yeah I'm short 🙂
 ```
 
 <p align="left"> <img

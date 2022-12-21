@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=300&section=header&text=ABDELLATIF%20LAGHJAJ&fontColor=d3d3d3&fontSize=68&animation=fadeIn&fontAlignY=38&desc=A%20Full-Stack%20Developer%20From%20Morocco&descAlignY=58&descAlign=71)
 ```
-- ⚡ A passionate full-stack developer from Morocco s 💗
+- ⚡ A passionate full-stack developer from Morocco 💗
 - ⚡ Classified as the 3rd developer in Morrocco according to codersrank.io 😀
 - ⚡ Fun fact yeah I'm short 🙂
 ```

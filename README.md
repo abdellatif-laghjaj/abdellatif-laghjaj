@@ -1,75 +1,93 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=300&section=header&text=ABDELLATIF%20LAGHJAJ&fontColor=d3d3d3&fontSize=68&animation=fadeIn&fontAlignY=38&desc=A%20Full-Stack%20Developer%20From%20Morocco&descAlignY=58&descAlign=71)
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
 
-- ⚡ A passionate full-stack developer from Morocco 💗
-- ⚡ Classified as the 3rd developer in Morrocco according to codersrank.io 😀
-- ⚡ Fun fact yeah I'm short 🙂
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+ABDELLATIFLAGHJAJ;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=red&style=for-the-badge"
-        alt="abdellatif-laghjaj" width="200"/> </p>
-        
-## 🐍 Watch the snake eat my contributions
-![snake gif](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdellatif-laghjaj&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-laghjaj&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
+</div> 
+   
+<br>
+<br>
+  
+<div style="display: inline_block">
+  <p align="center">
+    <a href="#">
+      <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do TypeScript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do C#" height="30" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do PHP" height="30" width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    </a>
+  </p>
+</div>
 
-# 🌐 Socials:
+<br>
+<br>
+  
+<div> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/abdellatif-laghjaj/"><img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+	<a href="https://www.linkedin.com/in/abdellatif-laghjaj/"><img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
+	<a href="https://www.linkedin.com/in/abdellatif-laghjaj/"><img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+    </a>
+	<a href="https://www.linkedin.com/in/abdellatif-laghjaj/"><img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+  </p>
+</div>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdelatif.laghjaj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdellatif_laghjaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdellatif-laghjaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15170378/abdelatif-laghjaj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdellatif_kira)
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
 
-# 💻 Tech Stack:
-
-<b><p> Front end: </p></b>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-<b><p> Back end: </p></b>
-
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-<b><p> Databases </b></b>
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-<b><p> Programming Languages: </p></b>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<b><p> Mobile developement: </p></b>
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-<b><p> Tools: </p></b>
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=abdellatif-laghjaj&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdellatif-laghjaj&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-laghjaj&theme=dark&hide_border=true&langs_count=8&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abdelatif) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abdelatiflaghjaj604) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/abdellatiflaghjaj)
+![Snake animation](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)

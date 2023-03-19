@@ -19,32 +19,8 @@
   
 <div style="display: inline_block">
   <p align="center">
-    <a href="#">
-      <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    </a>
-    <a href="#">
-      <img align="center" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
-    </a>
-    <a href="#">
-      <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    </a>
-    <a href="#">
-      <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    </a>
-    <a href="#">
-      <img align="center" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-    </a>
-    <a href="#">
-      <img align="center" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-    </a>
-    <a href="#">
-      <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-    </a>
-    <a href="#">
-      <img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </a>
-    <a href="#">
-      <img align="center" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+	<a href="#">
+      <img align="center" src="https://skillicons.dev/icons?i=js,vue,nodejs,tailwind,php,laravel,java,kotlin,flutter,mysql,firebase,python,git,figma" />
     </a>
   </p>
 </div>

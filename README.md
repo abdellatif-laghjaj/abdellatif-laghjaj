@@ -1,7 +1,3 @@
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
-</a>
-
 ![github_banner](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/assets/79521157/1b4f599a-5739-444a-8d51-f02d1d4f0c92)
 
 
@@ -46,9 +42,3 @@
     </a>
   </p>
 </div>
-
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
-</a>
-
-![Snake animation](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)

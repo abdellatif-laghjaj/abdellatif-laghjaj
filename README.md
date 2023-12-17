@@ -6,14 +6,15 @@
 <h3 align="left">👨🏻‍💻  About Me</h3>
  💡  I'm a Big Data and AI Master's student, focusing on machine learning and AI fields.<br>
 🎓  Currently, I'm pursuing my master's degree and diving into the world of machine learning and artificial intelligence.<br>
-🌱  I have a strong interest in Flutter, Git, Laravel, PHP, Python, JavaScript, Vue.js, Firebase, Kotlin, Java, and MySQL.<br>
+
+<h3 align="left">🌱  Interests and Projects</h3>
+I have a strong interest in Flutter, Git, Laravel, PHP, Python, JavaScript, Vue.js, Firebase, Kotlin, Java, and MySQL.<br>
 ✍️  In my free time, I enjoy exploring new technologies and working on projects related to data science and AI.
 
 <br><br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="330px" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;

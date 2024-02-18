@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
 <h3 align="center">Hello, I'm Abdellatif Laghjaj - a Big Data and AI Master's student.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=0e75b6&style=flat" alt="Abdellatif Laghjaj" /> </p>
 

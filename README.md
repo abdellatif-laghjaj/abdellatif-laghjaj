@@ -12,7 +12,8 @@
 ✍️  In my free time, I enjoy exploring new technologies and working on projects related to data science and AI.
 
 <br><br>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="330px" align="right"/>
+
+<img alt="Night Coding" src="https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/assets/79521157/6c52e39f-87eb-4819-9002-6d5156389049" width="330px" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 

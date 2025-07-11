@@ -1,16 +1,19 @@
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+<div align="center"><a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;"></a></div>
 
-<h3 align="center">Hello, I'm Abdellatif Laghjaj - a Big Data and AI Master's student.</h3>
+<h1 align="center">Hi there, I'm Abdellatif Laghjaj 👋</h1>
+<h3 align="center">A passionate Big Data & AI specialist, graduated with a Master's degree.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=0e75b6&style=flat" alt="Abdellatif Laghjaj" /> </p>
 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 <h3 align="left">👨🏻‍💻  About Me</h3>
- 💡  I'm a Big Data and AI Master's student, focusing on machine learning and AI fields.<br>
-🎓  Currently, I'm pursuing my master's degree and diving into the world of machine learning and artificial intelligence.<br>
-🌱  I have a strong interest in Flutter, Git, Laravel, PHP, Python, JavaScript, Vue.js, Firebase, Kotlin, Java, and MySQL.<br>
-✨  Recently, I've been learning Next.js, MongoDB, React, and enhancing my machine learning skills.<br>
-✍️  In my free time, I enjoy exploring new technologies and working on projects related to data science and AI.
+
+I'm a recent **Master's graduate in Big Data & Artificial Intelligence**, passionate about leveraging data to build intelligent and scalable solutions. My focus lies at the intersection of machine learning, data engineering, and full-stack development.
+
+- 🎓 Graduated with a Master's in **Big Data & AI**.
+- 💡 I enjoy turning complex problems into simple, beautiful, and intuitive software solutions.
+- 🌱 Currently expanding my skills in **MLOps, Next.js, and advanced cloud technologies**.
+- 🚀 I'm actively seeking opportunities where I can contribute to meaningful projects and continue to grow as a developer and data scientist.
 
 <br><br>
 

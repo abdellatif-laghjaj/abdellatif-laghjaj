@@ -30,12 +30,20 @@
 📊 Proven track record: **40% cost reduction, 50% performance improvement**  
 🌱 Currently expanding expertise in **MLOps, Advanced Cloud Technologies, and Real-time AI Systems**
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div style="flex: 1; margin-right: 20px;">
+
 **Key Achievements:**
 
 - 🏗️ Architected AI-powered team performance monitoring platforms
 - 🤖 Built intelligent LLM agents using OpenAI/Gemini APIs
 - 🔄 Engineered scalable microservices with 50% faster processing
 - 📱 Led end-to-end product development with SUS score of 77
+
+</div>
+
+<div style="flex: 1;">
 
 **What drives me:**
 
@@ -44,31 +52,23 @@
 - 🚀 Building scalable systems that make a real-world impact
 - 📈 Continuous learning and staying ahead of emerging technologies
 
+</div>
+
+</div>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-|       **Category**        |                                                                                                                                                                                                                                                                      **Technologies**                                                                                                                                                                                                                                                                      |
-| :-----------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **AI/ML & Data Science**  |     ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp; ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp; ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp; ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp; ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)&nbsp; ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)      |
-| **Programming Languages** |                    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp; ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp; ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)                     |
-| **Frontend Development**  |                ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp; ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp; ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)                |
-|    **Backend & APIs**     |                                                        ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp; ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp; ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)                                                        |
-|   **Databases & Cloud**   |           ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp; ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp; ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)           |
-|   **Big Data & DevOps**   | ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka)&nbsp; ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apache-spark)&nbsp; ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=apache-hadoop)&nbsp; ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp; ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) |
-|  **Mobile Development**   |                                                                                                                                          ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp; ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp; ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)                                                                                                                                          |
-
-</div>
-
----
-
-### 🎵 Currently Listening To
-
-<div align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4uLU6hMCjMI75M1A2tKUQC?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
+| **Category**              | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| :------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AI/ML & Data Science**  | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp; ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp; ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp; ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp; ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)&nbsp; ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)          |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp; ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp; ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)                                        |
+| **Frontend Development**  | ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp; ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp; ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)                               |
+| **Backend & APIs**        | ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp; ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp; ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)                                                                                                               |
+| **Databases & Cloud**     | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp; ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp; ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)                     |
+| **Big Data & DevOps**     | ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka)&nbsp; ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apache-spark)&nbsp; ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=apache-hadoop)&nbsp; ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp; ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) |
+| **Mobile Development**    | ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp; ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp; ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)                                                                                                                                                                                                                                                                                   |
 
 ---
 

@@ -24,20 +24,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/assets/79521157/6c52e39f-87eb-4819-9002-6d5156389049">
 
-🎓 **AI Engineer & Research Developer** with a Master's in Big Data & AI  
-🏢 Currently working at **Ibn Zohr University R&D**  
-💡 Specialized in **LLM agents, microservices architecture, and AI-powered solutions**  
-📊 Proven track record: **40% cost reduction, 50% performance improvement**  
-🌱 Currently expanding expertise in **MLOps, Advanced Cloud Technologies, and Real-time AI Systems**
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-<div style="flex: 1; margin-right: 20px;">
-
 **Key Achievements:**
 
 - 🏗️ Architected AI-powered team performance monitoring platforms
-- 🤖 Built intelligent LLM agents using OpenAI/Gemini APIs
+- 🤖 Built intelligent LLM agents using LLM Providers
 - 🔄 Engineered scalable microservices with 50% faster processing
 - 📱 Led end-to-end product development with SUS score of 77
 

@@ -24,17 +24,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/assets/79521157/6c52e39f-87eb-4819-9002-6d5156389049">
 
-**Key Achievements:**
-
-- 🏗️ Architected AI-powered team performance monitoring platforms
-- 🤖 Built intelligent LLM agents using LLM Providers
-- 🔄 Engineered scalable microservices with 50% faster processing
-- 📱 Led end-to-end product development with SUS score of 77
-
-</div>
-
-<div style="flex: 1;">
-
 **What drives me:**
 
 - 🌟 Solving complex challenges with elegant AI solutions

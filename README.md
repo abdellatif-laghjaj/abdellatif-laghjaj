@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md">
-    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;">
-  </a>
+ <img width="2508" height="627" alt="809821c2-996d-46ce-91ed-045202f168f1" src="https://github.com/user-attachments/assets/e9f8c140-c9a8-4681-b044-a11ea0f6fa08" />
 </div>
 
 <h1 align="center">

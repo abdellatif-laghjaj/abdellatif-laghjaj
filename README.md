@@ -1,15 +1,11 @@
 <div align="center">
- <img width="2508" height="627" alt="809821c2-996d-46ce-91ed-045202f168f1" src="https://github.com/user-attachments/assets/e9f8c140-c9a8-4681-b044-a11ea0f6fa08" />
+  <img width="2508" height="627" alt="banner" src="https://github.com/user-attachments/assets/e9f8c140-c9a8-4681-b044-a11ea0f6fa08" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdellatif+Laghjaj!;" />
-</h1>
+<h1 align="center">Abdellatif Laghjaj</h1>
 
-<h3 align="center">🚀 AI Engineer | Big Data Specialist | Full-Stack Developer</h3>
-<h4 align="center">Master's in Big Data & AI | Passionate about turning complex problems into intelligent solutions</h4>
-
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+<h3 align="center">⚙️ ERP & Software Engineer · Full-Stack Developer · AI Integrator</h3>
+<p align="center">MS in Big Data & AI · Building intelligent systems for real-world agri-business operations</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -20,32 +16,24 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/assets/79521157/6c52e39f-87eb-4819-9002-6d5156389049">
-
-**What drives me:**
-
-- 🌟 Solving complex challenges with elegant AI solutions
-- 🔍 Exploring the intersection of Big Data and Machine Learning
-- 🚀 Building scalable systems that make a real-world impact
-- 📈 Continuous learning and staying ahead of emerging technologies
-
-</div>
-
-</div>
+- ⚙️ Leading Odoo ERP migrations and custom module development for agri-business workflows
+- 🛠️ Building internal tools and platforms with Laravel, React, Docker, and Redis
+- 🤖 Integrating AI capabilities into ERP and business operations
+- 📈 Bridging the gap between enterprise software and modern full-stack development
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-| **Category**              | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| :------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AI/ML & Data Science**  | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp; ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp; ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp; ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp; ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)&nbsp; ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)          |
-| **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp; ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp; ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)                                        |
-| **Frontend Development**  | ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp; ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp; ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)                               |
-| **Backend & APIs**        | ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp; ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp; ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)                                                                                                               |
-| **Databases & Cloud**     | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp; ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp; ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)                     |
+| **Category**              | **Technologies** |
+| :------------------------ | :--------------- |
+| **AI/ML & Data Science**  | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp; ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp; ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp; ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp; ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)&nbsp; ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai) |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp; ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp; ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql) |
+| **Frontend Development**  | ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp; ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp; ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css) |
+| **Backend & APIs**        | ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp; ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp; ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi) |
+| **Databases & Cloud**     | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp; ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp; ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis) |
 | **Big Data & DevOps**     | ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka)&nbsp; ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apache-spark)&nbsp; ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=apache-hadoop)&nbsp; ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp; ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) |
-| **Mobile Development**    | ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp; ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp; ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)                                                                                                                                                                                                                                                                                   |
+| **Mobile Development**    | ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp; ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp; ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) |
 
 ---
 
@@ -62,19 +50,10 @@
 
 ---
 
-### 🎯 Current Focus
-
-- 🔬 **Research:** AI-powered DevOps automation and team performance monitoring
-- 🚀 **Building:** Scalable microservices with LLM integration
-- 📚 **Learning:** Advanced MLOps, Kubernetes, and Cloud-Native AI solutions
-- 🌐 **Contributing:** Open-source AI and Big Data projects
-
----
-
 ### 📫 Let's Connect!
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdellatif-laghjaj)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://abdellatif.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelatiflaghjaj@gmail.com)

@@ -38,16 +38,15 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdellatif-laghjaj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/abdellatif-laghjaj/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/abdellatif-laghjaj/abdellatif-laghjaj/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdellatif-laghjaj/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdellatif-laghjaj/abdellatif-laghjaj/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdellatif-laghjaj/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/abdellatif-laghjaj/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdellatif-laghjaj/abdellatif-laghjaj/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ---

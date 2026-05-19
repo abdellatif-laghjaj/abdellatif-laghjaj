@@ -25,7 +25,7 @@ jobs:
           file: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: dracula
-          max-cols: -1
+          max-cols: 3
           max-rows: 1
           margin-width: 8
           margin-height: 8

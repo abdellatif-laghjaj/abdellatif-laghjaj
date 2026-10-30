@@ -1,5 +1,17 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fight/fight-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="fight/fight-light.svg">
-  <img src="fight/fight-light.svg" width="100%" alt="Hi, I'm Jeremy. Dear Diary (crossed out). First of all, let me get something straight: This is a README, not a diary. Systems Design Engineering @ UWaterloo. I'm building a teddy bear called Ted. (Then a stickman breaks through the page and a fight starts.)">
+  <img src="fight/fight-light.svg" width="100%" alt="Hi, I'm Abdellatif. ERP and software engineering with Odoo, Laravel, React and AI. Two stick figures fight across this README, joined by a teddy bear called Bug.">
 </picture>
+
+I build Odoo ERP systems and internal tools for agri-business, and integrate AI into business workflows. MS in Big Data & AI.
+
+Python · PHP · TypeScript · Laravel · React · Odoo · PostgreSQL · Docker · Redis
+
+### Selected projects
+
+- [Quran Studio](https://github.com/abdellatif-laghjaj/quran-studio) · Create Quranic videos for YouTube, Instagram Reels, and more.
+- [Laravel Chat](https://github.com/abdellatif-laghjaj/laravel-chat-app) · Real-time private messaging with Laravel, Vue, and Pusher.
+- [Tomato sorting with CNN](https://github.com/abdellatif-laghjaj/tomato-sorting-using-CNN) · Cherry tomato sorting by ripeness and size using YOLOv11 and Streamlit.
+
+[Portfolio](https://abdellatif.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abdellatif-laghjaj/) · [Email](mailto:abdelatiflaghjaj@gmail.com)

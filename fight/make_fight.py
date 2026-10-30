@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-make_fight4.py  ·  builds fight-light.svg and fight-dark.svg  (v4, 30 s loop)
+make_fight.py  ·  builds fight-light.svg and fight-dark.svg  (31 s loop)
 
 Looks like a plain profile README. Isn't.
 
@@ -12,7 +12,7 @@ while the layout stays identical on every OS.
 The copy opens like the mountjoy README (a struck-out "Dear Diary", then
 "First of all, let me get something straight: This is a README, not a
 diary.") Edit PARAS to change it. Words the fight uses by name: "called"
-(kicked apart), "Ted." (the hole, and later the bear's home), "teddy" /
+(kicked apart), "Bug." (the hole, and later the bear's home), "teddy" /
 "Engineering" / "README," (sliced).
 
 ANIMATION TOOLKIT
@@ -21,7 +21,7 @@ ANIMATION TOOLKIT
   follow-through, idle breathing
 
 BEAT SHEET (seconds)
- 0.9  Cracks race out from "Ted." in three stages. Shivers, jolts.
+ 0.9  Cracks race out from "Bug." in three stages. Shivers, jolts.
  1.7  SHATTER. Rings, forks, twelve glass shards. The hole opens.
  1.9  Red climbs out. Lands. Dusts off. Hands on hips.
  3.9  Red jump-kicks "called". The letters scatter.
@@ -32,7 +32,7 @@ BEAT SHEET (seconds)
  7.1  The chase up the page. Red slices "teddy", "Engineering" and "README,"
       in half, one hop behind Ink.
  8.6  Ink drops, Red dives, the katana sticks in the floor. Red tugs. Ink kicks.
-10.5  Ink whistles. The word "Ted." lying on the floor shakes, poof, a bear.
+10.5  Ink whistles. The word "Bug." lying on the floor shakes, poof, a bear.
       It bites Red's leg, gets kicked off, poofs away.
 12.7  Hand sign. Three clones. Two hit each other. The third one is awkward.
 14.1  The real Red charges. Ink shoots straight up, hovers, his eyes light
@@ -51,6 +51,7 @@ BEAT SHEET (seconds)
 """
 import math
 import html
+from pathlib import Path
 from PIL import ImageFont
 
 # ---------------------------------------------------------------- constants
@@ -61,16 +62,20 @@ W, H, FLOOR = 830, 277, 272
 H1_Y, RULE_Y = 32, 50
 P_Y = [84, 124, 164, 204]
 BODY_Y = -17
-FONT = ImageFont.truetype("/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf", 16)
-FONT_B = ImageFont.truetype("/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf", 16)
+try:
+    FONT = ImageFont.truetype("/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf", 16)
+    FONT_B = ImageFont.truetype("/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf", 16)
+except OSError:
+    FONT = ImageFont.truetype("arial.ttf", 16)
+    FONT_B = ImageFont.truetype("arialbd.ttf", 16)
 FONT_STACK = "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif"
 
-H1_TEXT = "Hi, I'm Jeremy \U0001F44B"
+H1_TEXT = "Hi, I'm Abdellatif \U0001F44B"
 PARAS = [
     "~~Dear~~ ~~Diary~~",
     "First of all, let me get something straight: This is a **README,** not a diary.",
-    "Systems Design Engineering @ UWaterloo.",
-    "I'm building a teddy bear called Ted.",
+    "ERP & Software Engineering with Odoo, Laravel, React & AI.",
+    "This README has a teddy bear called Bug.",
 ]
 PALETTES = {
     "light": dict(bg="#ffffff", fg="#1f2328", rule="#d1d9e0", red="#cf222e", spark="#e3b341",
@@ -823,7 +828,7 @@ for ch in _kicked.text:
     NL.append(Word(ch, _x, _kicked.y, cw, fixed_width=False))
     _x += cw
 LINES[3] = [wd for wd in LINES[3] if wd is not _kicked]
-RD = word(3, "Ted.")
+RD = word(3, "Bug.")
 LINES[3] = [wd for wd in LINES[3] if wd is not RD]
 S1, S2, S3 = word(3, "teddy"), word(2, "Engineering"), word(1, "README,")
 IX, IY = RD.cx + 4, RD.cy + 1          # where the first crack starts
@@ -1629,7 +1634,7 @@ jolt(12.26, 1)
 dust(470, FLOOR, 12.26)
 ink.pose(12.04, "stand", 0.1)
 
-# ================================================================ ACT 4  Ted, clones, laser  (12.08 - 16.88)
+# ================================================================ ACT 4  Bug, clones, laser  (12.08 - 16.88)
 ink.pose(12.14, "whistle", 0.1)
 RD.shake(12.18, 12.48, 1.2)
 poof(640, FLOOR - 8, 12.48, 0.8)
@@ -2567,7 +2572,7 @@ def render(theme):
 if __name__ == "__main__":
     for theme in ("light", "dark"):
         svg = render(theme)
-        with open(f"fight-{theme}.svg", "w", encoding="utf-8") as f:
+        with Path(__file__).with_name(f"fight-{theme}.svg").open("w", encoding="utf-8") as f:
             f.write(svg)
         print(f"fight-{theme}.svg  {len(svg.encode()) / 1024:.0f} KB")
     print("hole:", round(HX), round(HY), "top", round(HT), "bottom", round(HB), "right", round(HR))

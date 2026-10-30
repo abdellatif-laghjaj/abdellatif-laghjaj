@@ -1,0 +1,1496 @@
+{
+  "sample": false,
+  "user": "bulletchicken",
+  "metric": "contributions",
+  "description": "Daily GitHub profile contribution counts, including private contribution totals enabled on the profile. No private repository details are collected.",
+  "source": {
+    "url": "https://github.com/bulletchicken",
+    "scope": "profile contribution calendar",
+    "api": "GitHub GraphQL contributionCalendar",
+    "calendar_total": 1834
+  },
+  "start": "2025-10-26",
+  "end": "2026-10-30",
+  "days": [
+    {
+      "date": "2025-10-26",
+      "contributions": 0
+    },
+    {
+      "date": "2025-10-27",
+      "contributions": 1
+    },
+    {
+      "date": "2025-10-28",
+      "contributions": 5
+    },
+    {
+      "date": "2025-10-29",
+      "contributions": 3
+    },
+    {
+      "date": "2025-10-30",
+      "contributions": 2
+    },
+    {
+      "date": "2025-10-31",
+      "contributions": 7
+    },
+    {
+      "date": "2025-11-01",
+      "contributions": 0
+    },
+    {
+      "date": "2025-11-02",
+      "contributions": 0
+    },
+    {
+      "date": "2025-11-03",
+      "contributions": 1
+    },
+    {
+      "date": "2025-11-04",
+      "contributions": 4
+    },
+    {
+      "date": "2025-11-05",
+      "contributions": 1
+    },
+    {
+      "date": "2025-11-06",
+      "contributions": 1
+    },
+    {
+      "date": "2025-11-07",
+      "contributions": 1
+    },
+    {
+      "date": "2025-11-08",
+      "contributions": 0
+    },
+    {
+      "date": "2025-11-09",
+      "contributions": 0
+    },
+    {
+      "date": "2025-11-10",
+      "contributions": 3
+    },
+    {
+      "date": "2025-11-11",
+      "contributions": 0
+    },
+    {
+      "date": "2025-11-12",
+      "contributions": 2
+    },
+    {
+      "date": "2025-11-13",
+      "contributions": 1
+    },
+    {
+      "date": "2025-11-14",
+      "contributions": 16
+    },
+    {
+      "date": "2025-11-15",
+      "contributions": 0
+    },
+    {
+      "date": "2025-11-16",
+      "contributions": 0
+    },
+    {
+      "date": "2025-11-17",
+      "contributions": 15
+    },
+    {
+      "date": "2025-11-18",
+      "contributions": 3
+    },
+    {
+      "date": "2025-11-19",
+      "contributions": 1
+    },
+    {
+      "date": "2025-11-20",
+      "contributions": 0
+    },
+    {
+      "date": "2025-11-21",
+      "contributions": 1
+    },
+    {
+      "date": "2025-11-22",
+      "contributions": 0
+    },
+    {
+      "date": "2025-11-23",
+      "contributions": 0
+    },
+    {
+      "date": "2025-11-24",
+      "contributions": 0
+    },
+    {
+      "date": "2025-11-25",
+      "contributions": 1
+    },
+    {
+      "date": "2025-11-26",
+      "contributions": 1
+    },
+    {
+      "date": "2025-11-27",
+      "contributions": 0
+    },
+    {
+      "date": "2025-11-28",
+      "contributions": 2
+    },
+    {
+      "date": "2025-11-29",
+      "contributions": 9
+    },
+    {
+      "date": "2025-11-30",
+      "contributions": 5
+    },
+    {
+      "date": "2025-12-01",
+      "contributions": 2
+    },
+    {
+      "date": "2025-12-02",
+      "contributions": 0
+    },
+    {
+      "date": "2025-12-03",
+      "contributions": 0
+    },
+    {
+      "date": "2025-12-04",
+      "contributions": 1
+    },
+    {
+      "date": "2025-12-05",
+      "contributions": 0
+    },
+    {
+      "date": "2025-12-06",
+      "contributions": 0
+    },
+    {
+      "date": "2025-12-07",
+      "contributions": 2
+    },
+    {
+      "date": "2025-12-08",
+      "contributions": 10
+    },
+    {
+      "date": "2025-12-09",
+      "contributions": 1
+    },
+    {
+      "date": "2025-12-10",
+      "contributions": 1
+    },
+    {
+      "date": "2025-12-11",
+      "contributions": 1
+    },
+    {
+      "date": "2025-12-12",
+      "contributions": 1
+    },
+    {
+      "date": "2025-12-13",
+      "contributions": 1
+    },
+    {
+      "date": "2025-12-14",
+      "contributions": 1
+    },
+    {
+      "date": "2025-12-15",
+      "contributions": 4
+    },
+    {
+      "date": "2025-12-16",
+      "contributions": 1
+    },
+    {
+      "date": "2025-12-17",
+      "contributions": 4
+    },
+    {
+      "date": "2025-12-18",
+      "contributions": 1
+    },
+    {
+      "date": "2025-12-19",
+      "contributions": 2
+    },
+    {
+      "date": "2025-12-20",
+      "contributions": 3
+    },
+    {
+      "date": "2025-12-21",
+      "contributions": 11
+    },
+    {
+      "date": "2025-12-22",
+      "contributions": 8
+    },
+    {
+      "date": "2025-12-23",
+      "contributions": 1
+    },
+    {
+      "date": "2025-12-24",
+      "contributions": 1
+    },
+    {
+      "date": "2025-12-25",
+      "contributions": 1
+    },
+    {
+      "date": "2025-12-26",
+      "contributions": 0
+    },
+    {
+      "date": "2025-12-27",
+      "contributions": 0
+    },
+    {
+      "date": "2025-12-28",
+      "contributions": 0
+    },
+    {
+      "date": "2025-12-29",
+      "contributions": 1
+    },
+    {
+      "date": "2025-12-30",
+      "contributions": 0
+    },
+    {
+      "date": "2025-12-31",
+      "contributions": 0
+    },
+    {
+      "date": "2026-01-01",
+      "contributions": 0
+    },
+    {
+      "date": "2026-01-02",
+      "contributions": 1
+    },
+    {
+      "date": "2026-01-03",
+      "contributions": 0
+    },
+    {
+      "date": "2026-01-04",
+      "contributions": 0
+    },
+    {
+      "date": "2026-01-05",
+      "contributions": 10
+    },
+    {
+      "date": "2026-01-06",
+      "contributions": 9
+    },
+    {
+      "date": "2026-01-07",
+      "contributions": 7
+    },
+    {
+      "date": "2026-01-08",
+      "contributions": 2
+    },
+    {
+      "date": "2026-01-09",
+      "contributions": 4
+    },
+    {
+      "date": "2026-01-10",
+      "contributions": 1
+    },
+    {
+      "date": "2026-01-11",
+      "contributions": 6
+    },
+    {
+      "date": "2026-01-12",
+      "contributions": 13
+    },
+    {
+      "date": "2026-01-13",
+      "contributions": 27
+    },
+    {
+      "date": "2026-01-14",
+      "contributions": 20
+    },
+    {
+      "date": "2026-01-15",
+      "contributions": 10
+    },
+    {
+      "date": "2026-01-16",
+      "contributions": 18
+    },
+    {
+      "date": "2026-01-17",
+      "contributions": 50
+    },
+    {
+      "date": "2026-01-18",
+      "contributions": 2
+    },
+    {
+      "date": "2026-01-19",
+      "contributions": 4
+    },
+    {
+      "date": "2026-01-20",
+      "contributions": 14
+    },
+    {
+      "date": "2026-01-21",
+      "contributions": 13
+    },
+    {
+      "date": "2026-01-22",
+      "contributions": 13
+    },
+    {
+      "date": "2026-01-23",
+      "contributions": 11
+    },
+    {
+      "date": "2026-01-24",
+      "contributions": 13
+    },
+    {
+      "date": "2026-01-25",
+      "contributions": 5
+    },
+    {
+      "date": "2026-01-26",
+      "contributions": 3
+    },
+    {
+      "date": "2026-01-27",
+      "contributions": 7
+    },
+    {
+      "date": "2026-01-28",
+      "contributions": 4
+    },
+    {
+      "date": "2026-01-29",
+      "contributions": 3
+    },
+    {
+      "date": "2026-01-30",
+      "contributions": 5
+    },
+    {
+      "date": "2026-01-31",
+      "contributions": 0
+    },
+    {
+      "date": "2026-02-01",
+      "contributions": 1
+    },
+    {
+      "date": "2026-02-02",
+      "contributions": 3
+    },
+    {
+      "date": "2026-02-03",
+      "contributions": 1
+    },
+    {
+      "date": "2026-02-04",
+      "contributions": 1
+    },
+    {
+      "date": "2026-02-05",
+      "contributions": 1
+    },
+    {
+      "date": "2026-02-06",
+      "contributions": 2
+    },
+    {
+      "date": "2026-02-07",
+      "contributions": 7
+    },
+    {
+      "date": "2026-02-08",
+      "contributions": 15
+    },
+    {
+      "date": "2026-02-09",
+      "contributions": 1
+    },
+    {
+      "date": "2026-02-10",
+      "contributions": 1
+    },
+    {
+      "date": "2026-02-11",
+      "contributions": 2
+    },
+    {
+      "date": "2026-02-12",
+      "contributions": 3
+    },
+    {
+      "date": "2026-02-13",
+      "contributions": 1
+    },
+    {
+      "date": "2026-02-14",
+      "contributions": 0
+    },
+    {
+      "date": "2026-02-15",
+      "contributions": 0
+    },
+    {
+      "date": "2026-02-16",
+      "contributions": 11
+    },
+    {
+      "date": "2026-02-17",
+      "contributions": 0
+    },
+    {
+      "date": "2026-02-18",
+      "contributions": 1
+    },
+    {
+      "date": "2026-02-19",
+      "contributions": 0
+    },
+    {
+      "date": "2026-02-20",
+      "contributions": 0
+    },
+    {
+      "date": "2026-02-21",
+      "contributions": 0
+    },
+    {
+      "date": "2026-02-22",
+      "contributions": 0
+    },
+    {
+      "date": "2026-02-23",
+      "contributions": 0
+    },
+    {
+      "date": "2026-02-24",
+      "contributions": 3
+    },
+    {
+      "date": "2026-02-25",
+      "contributions": 14
+    },
+    {
+      "date": "2026-02-26",
+      "contributions": 12
+    },
+    {
+      "date": "2026-02-27",
+      "contributions": 14
+    },
+    {
+      "date": "2026-02-28",
+      "contributions": 12
+    },
+    {
+      "date": "2026-03-01",
+      "contributions": 8
+    },
+    {
+      "date": "2026-03-02",
+      "contributions": 5
+    },
+    {
+      "date": "2026-03-03",
+      "contributions": 8
+    },
+    {
+      "date": "2026-03-04",
+      "contributions": 5
+    },
+    {
+      "date": "2026-03-05",
+      "contributions": 7
+    },
+    {
+      "date": "2026-03-06",
+      "contributions": 5
+    },
+    {
+      "date": "2026-03-07",
+      "contributions": 0
+    },
+    {
+      "date": "2026-03-08",
+      "contributions": 0
+    },
+    {
+      "date": "2026-03-09",
+      "contributions": 0
+    },
+    {
+      "date": "2026-03-10",
+      "contributions": 1
+    },
+    {
+      "date": "2026-03-11",
+      "contributions": 0
+    },
+    {
+      "date": "2026-03-12",
+      "contributions": 7
+    },
+    {
+      "date": "2026-03-13",
+      "contributions": 0
+    },
+    {
+      "date": "2026-03-14",
+      "contributions": 0
+    },
+    {
+      "date": "2026-03-15",
+      "contributions": 4
+    },
+    {
+      "date": "2026-03-16",
+      "contributions": 19
+    },
+    {
+      "date": "2026-03-17",
+      "contributions": 0
+    },
+    {
+      "date": "2026-03-18",
+      "contributions": 1
+    },
+    {
+      "date": "2026-03-19",
+      "contributions": 7
+    },
+    {
+      "date": "2026-03-20",
+      "contributions": 3
+    },
+    {
+      "date": "2026-03-21",
+      "contributions": 0
+    },
+    {
+      "date": "2026-03-22",
+      "contributions": 7
+    },
+    {
+      "date": "2026-03-23",
+      "contributions": 0
+    },
+    {
+      "date": "2026-03-24",
+      "contributions": 0
+    },
+    {
+      "date": "2026-03-25",
+      "contributions": 1
+    },
+    {
+      "date": "2026-03-26",
+      "contributions": 3
+    },
+    {
+      "date": "2026-03-27",
+      "contributions": 2
+    },
+    {
+      "date": "2026-03-28",
+      "contributions": 7
+    },
+    {
+      "date": "2026-03-29",
+      "contributions": 0
+    },
+    {
+      "date": "2026-03-30",
+      "contributions": 1
+    },
+    {
+      "date": "2026-03-31",
+      "contributions": 6
+    },
+    {
+      "date": "2026-04-01",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-02",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-03",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-04",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-05",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-06",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-07",
+      "contributions": 2
+    },
+    {
+      "date": "2026-04-08",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-09",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-10",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-11",
+      "contributions": 1
+    },
+    {
+      "date": "2026-04-12",
+      "contributions": 1
+    },
+    {
+      "date": "2026-04-13",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-14",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-15",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-16",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-17",
+      "contributions": 1
+    },
+    {
+      "date": "2026-04-18",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-19",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-20",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-21",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-22",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-23",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-24",
+      "contributions": 11
+    },
+    {
+      "date": "2026-04-25",
+      "contributions": 1
+    },
+    {
+      "date": "2026-04-26",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-27",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-28",
+      "contributions": 0
+    },
+    {
+      "date": "2026-04-29",
+      "contributions": 15
+    },
+    {
+      "date": "2026-04-30",
+      "contributions": 1
+    },
+    {
+      "date": "2026-05-01",
+      "contributions": 1
+    },
+    {
+      "date": "2026-05-02",
+      "contributions": 7
+    },
+    {
+      "date": "2026-05-03",
+      "contributions": 0
+    },
+    {
+      "date": "2026-05-04",
+      "contributions": 0
+    },
+    {
+      "date": "2026-05-05",
+      "contributions": 0
+    },
+    {
+      "date": "2026-05-06",
+      "contributions": 0
+    },
+    {
+      "date": "2026-05-07",
+      "contributions": 0
+    },
+    {
+      "date": "2026-05-08",
+      "contributions": 0
+    },
+    {
+      "date": "2026-05-09",
+      "contributions": 0
+    },
+    {
+      "date": "2026-05-10",
+      "contributions": 0
+    },
+    {
+      "date": "2026-05-11",
+      "contributions": 10
+    },
+    {
+      "date": "2026-05-12",
+      "contributions": 8
+    },
+    {
+      "date": "2026-05-13",
+      "contributions": 13
+    },
+    {
+      "date": "2026-05-14",
+      "contributions": 14
+    },
+    {
+      "date": "2026-05-15",
+      "contributions": 5
+    },
+    {
+      "date": "2026-05-16",
+      "contributions": 2
+    },
+    {
+      "date": "2026-05-17",
+      "contributions": 11
+    },
+    {
+      "date": "2026-05-18",
+      "contributions": 23
+    },
+    {
+      "date": "2026-05-19",
+      "contributions": 5
+    },
+    {
+      "date": "2026-05-20",
+      "contributions": 17
+    },
+    {
+      "date": "2026-05-21",
+      "contributions": 28
+    },
+    {
+      "date": "2026-05-22",
+      "contributions": 9
+    },
+    {
+      "date": "2026-05-23",
+      "contributions": 13
+    },
+    {
+      "date": "2026-05-24",
+      "contributions": 1
+    },
+    {
+      "date": "2026-05-25",
+      "contributions": 6
+    },
+    {
+      "date": "2026-05-26",
+      "contributions": 6
+    },
+    {
+      "date": "2026-05-27",
+      "contributions": 12
+    },
+    {
+      "date": "2026-05-28",
+      "contributions": 3
+    },
+    {
+      "date": "2026-05-29",
+      "contributions": 1
+    },
+    {
+      "date": "2026-05-30",
+      "contributions": 1
+    },
+    {
+      "date": "2026-05-31",
+      "contributions": 5
+    },
+    {
+      "date": "2026-06-01",
+      "contributions": 7
+    },
+    {
+      "date": "2026-06-02",
+      "contributions": 18
+    },
+    {
+      "date": "2026-06-03",
+      "contributions": 1
+    },
+    {
+      "date": "2026-06-04",
+      "contributions": 1
+    },
+    {
+      "date": "2026-06-05",
+      "contributions": 2
+    },
+    {
+      "date": "2026-06-06",
+      "contributions": 4
+    },
+    {
+      "date": "2026-06-07",
+      "contributions": 1
+    },
+    {
+      "date": "2026-06-08",
+      "contributions": 4
+    },
+    {
+      "date": "2026-06-09",
+      "contributions": 12
+    },
+    {
+      "date": "2026-06-10",
+      "contributions": 16
+    },
+    {
+      "date": "2026-06-11",
+      "contributions": 9
+    },
+    {
+      "date": "2026-06-12",
+      "contributions": 15
+    },
+    {
+      "date": "2026-06-13",
+      "contributions": 2
+    },
+    {
+      "date": "2026-06-14",
+      "contributions": 20
+    },
+    {
+      "date": "2026-06-15",
+      "contributions": 17
+    },
+    {
+      "date": "2026-06-16",
+      "contributions": 9
+    },
+    {
+      "date": "2026-06-17",
+      "contributions": 11
+    },
+    {
+      "date": "2026-06-18",
+      "contributions": 22
+    },
+    {
+      "date": "2026-06-19",
+      "contributions": 5
+    },
+    {
+      "date": "2026-06-20",
+      "contributions": 1
+    },
+    {
+      "date": "2026-06-21",
+      "contributions": 2
+    },
+    {
+      "date": "2026-06-22",
+      "contributions": 4
+    },
+    {
+      "date": "2026-06-23",
+      "contributions": 21
+    },
+    {
+      "date": "2026-06-24",
+      "contributions": 30
+    },
+    {
+      "date": "2026-06-25",
+      "contributions": 17
+    },
+    {
+      "date": "2026-06-26",
+      "contributions": 8
+    },
+    {
+      "date": "2026-06-27",
+      "contributions": 4
+    },
+    {
+      "date": "2026-06-28",
+      "contributions": 5
+    },
+    {
+      "date": "2026-06-29",
+      "contributions": 8
+    },
+    {
+      "date": "2026-06-30",
+      "contributions": 10
+    },
+    {
+      "date": "2026-07-01",
+      "contributions": 3
+    },
+    {
+      "date": "2026-07-02",
+      "contributions": 7
+    },
+    {
+      "date": "2026-07-03",
+      "contributions": 13
+    },
+    {
+      "date": "2026-07-04",
+      "contributions": 0
+    },
+    {
+      "date": "2026-07-05",
+      "contributions": 34
+    },
+    {
+      "date": "2026-07-06",
+      "contributions": 22
+    },
+    {
+      "date": "2026-07-07",
+      "contributions": 15
+    },
+    {
+      "date": "2026-07-08",
+      "contributions": 5
+    },
+    {
+      "date": "2026-07-09",
+      "contributions": 15
+    },
+    {
+      "date": "2026-07-10",
+      "contributions": 5
+    },
+    {
+      "date": "2026-07-11",
+      "contributions": 5
+    },
+    {
+      "date": "2026-07-12",
+      "contributions": 8
+    },
+    {
+      "date": "2026-07-13",
+      "contributions": 9
+    },
+    {
+      "date": "2026-07-14",
+      "contributions": 6
+    },
+    {
+      "date": "2026-07-15",
+      "contributions": 7
+    },
+    {
+      "date": "2026-07-16",
+      "contributions": 15
+    },
+    {
+      "date": "2026-07-17",
+      "contributions": 14
+    },
+    {
+      "date": "2026-07-18",
+      "contributions": 6
+    },
+    {
+      "date": "2026-07-19",
+      "contributions": 1
+    },
+    {
+      "date": "2026-07-20",
+      "contributions": 7
+    },
+    {
+      "date": "2026-07-21",
+      "contributions": 3
+    },
+    {
+      "date": "2026-07-22",
+      "contributions": 3
+    },
+    {
+      "date": "2026-07-23",
+      "contributions": 1
+    },
+    {
+      "date": "2026-07-24",
+      "contributions": 0
+    },
+    {
+      "date": "2026-07-25",
+      "contributions": 0
+    },
+    {
+      "date": "2026-07-26",
+      "contributions": 0
+    },
+    {
+      "date": "2026-07-27",
+      "contributions": 0
+    },
+    {
+      "date": "2026-07-28",
+      "contributions": 4
+    },
+    {
+      "date": "2026-07-29",
+      "contributions": 4
+    },
+    {
+      "date": "2026-07-30",
+      "contributions": 13
+    },
+    {
+      "date": "2026-07-31",
+      "contributions": 2
+    },
+    {
+      "date": "2026-08-01",
+      "contributions": 4
+    },
+    {
+      "date": "2026-08-02",
+      "contributions": 0
+    },
+    {
+      "date": "2026-08-03",
+      "contributions": 4
+    },
+    {
+      "date": "2026-08-04",
+      "contributions": 0
+    },
+    {
+      "date": "2026-08-05",
+      "contributions": 5
+    },
+    {
+      "date": "2026-08-06",
+      "contributions": 12
+    },
+    {
+      "date": "2026-08-07",
+      "contributions": 15
+    },
+    {
+      "date": "2026-08-08",
+      "contributions": 10
+    },
+    {
+      "date": "2026-08-09",
+      "contributions": 7
+    },
+    {
+      "date": "2026-08-10",
+      "contributions": 12
+    },
+    {
+      "date": "2026-08-11",
+      "contributions": 0
+    },
+    {
+      "date": "2026-08-12",
+      "contributions": 11
+    },
+    {
+      "date": "2026-08-13",
+      "contributions": 4
+    },
+    {
+      "date": "2026-08-14",
+      "contributions": 2
+    },
+    {
+      "date": "2026-08-15",
+      "contributions": 1
+    },
+    {
+      "date": "2026-08-16",
+      "contributions": 4
+    },
+    {
+      "date": "2026-08-17",
+      "contributions": 0
+    },
+    {
+      "date": "2026-08-18",
+      "contributions": 0
+    },
+    {
+      "date": "2026-08-19",
+      "contributions": 24
+    },
+    {
+      "date": "2026-08-20",
+      "contributions": 3
+    },
+    {
+      "date": "2026-08-21",
+      "contributions": 7
+    },
+    {
+      "date": "2026-08-22",
+      "contributions": 10
+    },
+    {
+      "date": "2026-08-23",
+      "contributions": 7
+    },
+    {
+      "date": "2026-08-24",
+      "contributions": 12
+    },
+    {
+      "date": "2026-08-25",
+      "contributions": 0
+    },
+    {
+      "date": "2026-08-26",
+      "contributions": 1
+    },
+    {
+      "date": "2026-08-27",
+      "contributions": 11
+    },
+    {
+      "date": "2026-08-28",
+      "contributions": 11
+    },
+    {
+      "date": "2026-08-29",
+      "contributions": 0
+    },
+    {
+      "date": "2026-08-30",
+      "contributions": 4
+    },
+    {
+      "date": "2026-08-31",
+      "contributions": 4
+    },
+    {
+      "date": "2026-09-01",
+      "contributions": 15
+    },
+    {
+      "date": "2026-09-02",
+      "contributions": 9
+    },
+    {
+      "date": "2026-09-03",
+      "contributions": 2
+    },
+    {
+      "date": "2026-09-04",
+      "contributions": 3
+    },
+    {
+      "date": "2026-09-05",
+      "contributions": 10
+    },
+    {
+      "date": "2026-09-06",
+      "contributions": 0
+    },
+    {
+      "date": "2026-09-07",
+      "contributions": 0
+    },
+    {
+      "date": "2026-09-08",
+      "contributions": 0
+    },
+    {
+      "date": "2026-09-09",
+      "contributions": 0
+    },
+    {
+      "date": "2026-09-10",
+      "contributions": 3
+    },
+    {
+      "date": "2026-09-11",
+      "contributions": 2
+    },
+    {
+      "date": "2026-09-12",
+      "contributions": 2
+    },
+    {
+      "date": "2026-09-13",
+      "contributions": 3
+    },
+    {
+      "date": "2026-09-14",
+      "contributions": 10
+    },
+    {
+      "date": "2026-09-15",
+      "contributions": 5
+    },
+    {
+      "date": "2026-09-16",
+      "contributions": 6
+    },
+    {
+      "date": "2026-09-17",
+      "contributions": 24
+    },
+    {
+      "date": "2026-09-18",
+      "contributions": 0
+    },
+    {
+      "date": "2026-09-19",
+      "contributions": 0
+    },
+    {
+      "date": "2026-09-20",
+      "contributions": 12
+    },
+    {
+      "date": "2026-09-21",
+      "contributions": 0
+    },
+    {
+      "date": "2026-09-22",
+      "contributions": 12
+    },
+    {
+      "date": "2026-09-23",
+      "contributions": 11
+    },
+    {
+      "date": "2026-09-24",
+      "contributions": 4
+    },
+    {
+      "date": "2026-09-25",
+      "contributions": 0
+    },
+    {
+      "date": "2026-09-26",
+      "contributions": 9
+    },
+    {
+      "date": "2026-09-27",
+      "contributions": 4
+    },
+    {
+      "date": "2026-09-28",
+      "contributions": 13
+    },
+    {
+      "date": "2026-09-29",
+      "contributions": 0
+    },
+    {
+      "date": "2026-09-30",
+      "contributions": 10
+    },
+    {
+      "date": "2026-10-01",
+      "contributions": 8
+    },
+    {
+      "date": "2026-10-02",
+      "contributions": 9
+    },
+    {
+      "date": "2026-10-03",
+      "contributions": 7
+    },
+    {
+      "date": "2026-10-04",
+      "contributions": 0
+    },
+    {
+      "date": "2026-10-05",
+      "contributions": 1
+    },
+    {
+      "date": "2026-10-06",
+      "contributions": 2
+    },
+    {
+      "date": "2026-10-07",
+      "contributions": 30
+    },
+    {
+      "date": "2026-10-08",
+      "contributions": 2
+    },
+    {
+      "date": "2026-10-09",
+      "contributions": 2
+    },
+    {
+      "date": "2026-10-10",
+      "contributions": 2
+    },
+    {
+      "date": "2026-10-11",
+      "contributions": 2
+    },
+    {
+      "date": "2026-10-12",
+      "contributions": 2
+    },
+    {
+      "date": "2026-10-13",
+      "contributions": 2
+    },
+    {
+      "date": "2026-10-14",
+      "contributions": 1
+    },
+    {
+      "date": "2026-10-15",
+      "contributions": 4
+    },
+    {
+      "date": "2026-10-16",
+      "contributions": 1
+    },
+    {
+      "date": "2026-10-17",
+      "contributions": 2
+    },
+    {
+      "date": "2026-10-18",
+      "contributions": 2
+    },
+    {
+      "date": "2026-10-19",
+      "contributions": 0
+    },
+    {
+      "date": "2026-10-20",
+      "contributions": 0
+    },
+    {
+      "date": "2026-10-21",
+      "contributions": 2
+    },
+    {
+      "date": "2026-10-22",
+      "contributions": 0
+    },
+    {
+      "date": "2026-10-23",
+      "contributions": 0
+    },
+    {
+      "date": "2026-10-24",
+      "contributions": 0
+    },
+    {
+      "date": "2026-10-25",
+      "contributions": 1
+    },
+    {
+      "date": "2026-10-26",
+      "contributions": 2
+    },
+    {
+      "date": "2026-10-27",
+      "contributions": 0
+    },
+    {
+      "date": "2026-10-28",
+      "contributions": 8
+    },
+    {
+      "date": "2026-10-29",
+      "contributions": 8
+    },
+    {
+      "date": "2026-10-30",
+      "contributions": 0
+    }
+  ]
+}

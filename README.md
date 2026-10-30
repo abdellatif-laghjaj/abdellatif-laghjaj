@@ -8,10 +8,4 @@ I build Odoo ERP systems and internal tools for agri-business, and integrate AI 
 
 Python · PHP · TypeScript · Laravel · React · Odoo · PostgreSQL · Docker · Redis
 
-### Selected projects
-
-- [Quran Studio](https://github.com/abdellatif-laghjaj/quran-studio) · Create Quranic videos for YouTube, Instagram Reels, and more.
-- [Laravel Chat](https://github.com/abdellatif-laghjaj/laravel-chat-app) · Real-time private messaging with Laravel, Vue, and Pusher.
-- [Tomato sorting with CNN](https://github.com/abdellatif-laghjaj/tomato-sorting-using-CNN) · Cherry tomato sorting by ripeness and size using YOLOv11 and Streamlit.
-
 [Portfolio](https://abdellatif.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abdellatif-laghjaj/) · [Email](mailto:abdelatiflaghjaj@gmail.com)

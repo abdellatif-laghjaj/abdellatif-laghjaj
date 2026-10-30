@@ -16,5 +16,5 @@ Windows, and the SVG stores the measured word widths.
 
 Edit `H1_TEXT` and `PARAS` near the top to change the introduction. The animation
 targets specific words: `called` and `Bug.` on the last line, plus `teddy`,
-`Engineering`, and `README,` on their current lines. If you rename those words,
+`Engineer`, and `README,` on their current lines. If you rename those words,
 update the matching `word(...)` lookups too. Keep four lines within the 830px canvas.

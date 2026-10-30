@@ -19,8 +19,9 @@ class FightTests(unittest.TestCase):
                 root = ET.parse(Path(__file__).with_name(f"fight-{theme}.svg")).getroot()
                 text = " ".join(root.itertext())
                 self.assertIn("Hi, I'm Abdellatif", text)
+                self.assertIn("Software Engineer & AI Developer.", text)
                 self.assertIn("Bug.", text)
-                for old_identity in ("Jeremy", "UWaterloo", "Ted."):
+                for old_identity in ("Jeremy", "UWaterloo", "Ted.", "ERP", "Odoo"):
                     self.assertNotIn(old_identity, text)
                 animations = [el for el in root.iter() if "keyTimes" in el.attrib]
                 self.assertTrue(animations)

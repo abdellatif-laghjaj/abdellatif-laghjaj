@@ -13,7 +13,7 @@ The copy opens like the mountjoy README (a struck-out "Dear Diary", then
 "First of all, let me get something straight: This is a README, not a
 diary.") Edit PARAS to change it. Words the fight uses by name: "called"
 (kicked apart), "Bug." (the hole, and later the bear's home), "teddy" /
-"Engineering" / "README," (sliced).
+"Engineer" / "README," (sliced).
 
 ANIMATION TOOLKIT
   anticipation, squash & stretch, easing on every tween, 6-pose run cycle,
@@ -29,7 +29,7 @@ BEAT SHEET (seconds)
  4.8  Red flinches and DRAWS A KATANA. Shing.
  5.3  Ink cracks his knuckles and TELEPORTS behind him. Tap tap. "?" "!"
  6.7  Red slashes. Ink leans back, matrix-style.
- 7.1  The chase up the page. Red slices "teddy", "Engineering" and "README,"
+ 7.1  The chase up the page. Red slices "teddy", "Engineer" and "README,"
       in half, one hop behind Ink.
  8.6  Ink drops, Red dives, the katana sticks in the floor. Red tugs. Ink kicks.
 10.5  Ink whistles. The word "Bug." lying on the floor shakes, poof, a bear.
@@ -74,7 +74,7 @@ H1_TEXT = "Hi, I'm Abdellatif \U0001F44B"
 PARAS = [
     "~~Dear~~ ~~Diary~~",
     "First of all, let me get something straight: This is a **README,** not a diary.",
-    "ERP & Software Engineering with Odoo, Laravel, React & AI.",
+    "Software Engineer & AI Developer. Web apps, APIs & machine learning.",
     "This README has a teddy bear called Bug.",
 ]
 PALETTES = {
@@ -830,7 +830,7 @@ for ch in _kicked.text:
 LINES[3] = [wd for wd in LINES[3] if wd is not _kicked]
 RD = word(3, "Bug.")
 LINES[3] = [wd for wd in LINES[3] if wd is not RD]
-S1, S2, S3 = word(3, "teddy"), word(2, "Engineering"), word(1, "README,")
+S1, S2, S3 = word(3, "teddy"), word(2, "Engineer"), word(1, "README,")
 IX, IY = RD.cx + 4, RD.cy + 1          # where the first crack starts
 
 # ---------------------------------------------------------------- effect library
@@ -1473,7 +1473,7 @@ ink.pose(8.06, "stand", 0.08)
 
 # ================================================================ ACT 3  chase, slicing, stuck katana  (8.08 - 11.68)
 # the chase. Cut 1 is a RISING cut on the way up to "teddy" (blade turned over), which leaves the blade
-# high: cut 2 comes straight down out of that onto "Engineering", which leaves it low: cut 3 rises
+# high: cut 2 comes straight down out of that onto "Engineer", which leaves it low: cut 3 rises
 # again through "README,". One continuous figure-eight of steel.
 red.face(8.16, 1)
 hop(ink, 8.16, 8.41, S1.cx, P_Y[3] + 1)
